@@ -11,6 +11,7 @@ import br.com.sie.dao.MaterialDAO;
 import br.com.sie.model.Perfil;
 import br.com.sie.model.Usuario;
 import br.com.sie.service.UsuarioService;
+import br.com.sie.service.EstoqueService;
 
 public class Main {
     
